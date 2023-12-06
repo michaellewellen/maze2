@@ -1,0 +1,15 @@
+C:\Users\michael.lewellen\maze2\bin\Debug\net8.0\maze2.exe
+C:\Users\michael.lewellen\maze2\bin\Debug\net8.0\maze2.deps.json
+C:\Users\michael.lewellen\maze2\bin\Debug\net8.0\maze2.runtimeconfig.json
+C:\Users\michael.lewellen\maze2\bin\Debug\net8.0\maze2.dll
+C:\Users\michael.lewellen\maze2\bin\Debug\net8.0\maze2.pdb
+C:\Users\michael.lewellen\maze2\obj\Debug\net8.0\maze2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michael.lewellen\maze2\obj\Debug\net8.0\maze2.AssemblyInfoInputs.cache
+C:\Users\michael.lewellen\maze2\obj\Debug\net8.0\maze2.AssemblyInfo.cs
+C:\Users\michael.lewellen\maze2\obj\Debug\net8.0\maze2.csproj.CoreCompileInputs.cache
+C:\Users\michael.lewellen\maze2\obj\Debug\net8.0\maze2.sourcelink.json
+C:\Users\michael.lewellen\maze2\obj\Debug\net8.0\maze2.dll
+C:\Users\michael.lewellen\maze2\obj\Debug\net8.0\refint\maze2.dll
+C:\Users\michael.lewellen\maze2\obj\Debug\net8.0\maze2.pdb
+C:\Users\michael.lewellen\maze2\obj\Debug\net8.0\maze2.genruntimeconfig.cache
+C:\Users\michael.lewellen\maze2\obj\Debug\net8.0\ref\maze2.dll
